@@ -1,6 +1,6 @@
 # Coding Challenge
 
-Hello, my friend. Congratulations you have passed a short voice call interview. This is a short challenge for you to resolve. We encourage you to use the Internet to complete this challenge because it's quite hard and very domain-specific. If you finish. Push the code to GitHub, and contact us over the hiring platform or [email](bitweed@volare.finance). If you meet any problem you can not resolve, I'd like to help in the email too.
+Hello, my friend. Congratulations you have passed the first interview. This is a short challenge for you to resolve. We encourage you to use the Internet to complete this challenge because it's quite hard and very domain-specific. If you finish. Push the code to GitHub, and contact us over the hiring platform or [email](bitweed@volare.finance). If you meet any problem you can not resolve, I'd like to help in the email too.
 
 We are a blockchain startup. We are building a decentralized platform for the financial industry. So I want to test your skills in accepting new knowledge and see if you can resolve these challenges.
 
