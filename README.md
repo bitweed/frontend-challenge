@@ -74,4 +74,4 @@ If you finish, commit and push.
 
 ---
 
-> This is hard. By all means. For a people who never develop anything in Ethereum. We hope you to try as hard  as you can to complete these challenges, even if you tried an failed, it's okay. Progress is all the matters. As a developer, whether you decide to come or not, this will makes you know more about blockchain. And in that way, this help us BUILD TOGETER.
+> This is hard. By all means. For a people who never develop anything in Ethereum. We hope you to try as hard  as you can to complete these challenges, even if you tried an failed, it's okay. Progress is all the matters. As a developer, whether you decide to come or not, this will makes you know more about blockchain. And in that way, this help us BUILD TOGETHER.
